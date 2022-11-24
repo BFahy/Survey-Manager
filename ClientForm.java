@@ -15,8 +15,7 @@ import java.net.UnknownHostException;
 
 /****************************************************************
  PROGRAM:   Survey Manager/ClientForm
- AUTHOR:    Brandon Fahy
- LOGON ID:  473203308
+ AUTHOR:    B Fahy
  DUE DATE:  20/10/2022
 
  FUNCTION:  The purpose of this program is to receive a survey from main form and send a response back (1-5)
