@@ -1,6 +1,6 @@
 # SurveyManager
 
-Survey manager main form with client forms, press 'Connect' on each form to connect to a chat server. 
+Survey manager main form application with client forms, press 'Connect' on each form to connect to a chat server. 
 
 Application allows for main client to select from list of sample questions to be sent to client forms.
 
